@@ -1,1 +1,62 @@
+.sofia-regular {
+  font-family: "Sofia", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 41px;
+}
+
+.row {
+	height:auto;
+}
+
+.p {
+  font-family: "Cormorant Infant", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.card-body {
+  font-family: "Cormorant Infant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-title {
+  font-family: "Cormorant Infant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-text {
+  font-family: "Cormorant Infant", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-link{
+	
+}
+
+
+
+#top-portion {
+	background-color: #b9faff}
+
+#box-a {
+    background-color: #bcffb9;
+}
+
+#box-b {
+    background-color: lightblue;
+}
+
+#box-c {
+	background-color: #ffc4e2;
+}
+
+#box-d {
+	background-color: lightyellow;
+}
+
 
